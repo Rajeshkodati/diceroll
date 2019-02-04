@@ -32,4 +32,11 @@ $('#end').click(function(){
     $('#current-1').html(0) 
   }
 }) ;
+$('#new').click(function(){
+    $('.dice').css({display:'none'});
+    $('#score-0').html(0);
+    $('#score-1').html(0);
+    $('#count-0').html(0);
+    $('#count-1').html(0);
+});
 });

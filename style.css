@@ -64,3 +64,10 @@
     z-index: 100;
     bottom:100px;   
 }
+
+#new{
+    position: absolute;
+    left:700px;
+    z-index: 100;
+    bottom:100px;   
+}
